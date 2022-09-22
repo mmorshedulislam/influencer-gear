@@ -303,11 +303,5 @@ font-style: normal;
 font-weight: 700;
 font-size: 14px;
 line-height: 24px;
-/* identical to box height, or 171% */
-
-font-feature-settings: 'liga' off;
-
-/* Text / Gray 300 */
-
 color: #D9DBE1;
 }
